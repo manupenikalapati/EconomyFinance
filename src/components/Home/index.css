@@ -1,0 +1,48 @@
+.home {
+    height: 100vh;
+    background-color:blueviolet;
+}
+
+.hero {
+    background-image: url('https://i.pinimg.com/736x/57/36/ca/5736caca383b65d8be625fcc4b426d7a.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    padding: 100px 20px;
+    text-align: center;
+    height: 100vh;
+    
+}
+.heading-text {
+    color: burlywood;
+}
+
+.hero-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.hero h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 1.1em;
+}
+
+.cta-button:hover {
+    background-color: #0056b3;
+}
